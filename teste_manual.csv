@@ -1,0 +1,4 @@
+id_duplicata,sacador,sacado,valor,data_emissao,data_vencimento,tipo_documento,documento_fiscal_vinculado,status
+TEST001,Minha Empresa Ltda,Cliente Teste SA,25000.00,2024-01-15,2024-02-15,Duplicata,true,Ativo
+TEST002,Minha Empresa Ltda,Cliente Suspeito Inc,500000.00,2024-01-16,2024-01-18,Duplicata,false,Ativo
+TEST003,Outra Empresa ME,Cliente Normal Corp,15000.50,2024-01-17,2024-02-17,Duplicata,true,Ativo

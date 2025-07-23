@@ -1,0 +1,16 @@
+id_duplicata,sacador,sacado,valor,data_emissao,data_vencimento,tipo_documento,documento_fiscal_vinculado,status
+DUP001,Empresa Alpha Ltda,Cliente Beta Corp,15000.50,2024-01-15,2024-02-15,Duplicata,true,Ativo
+DUP002,Empresa Gamma SA,Cliente Delta Inc,75000.00,2024-01-16,2024-01-20,Duplicata,false,Ativo
+DUP003,Empresa Epsilon ME,Cliente Zeta Ltda,25000.75,2024-01-17,2024-02-17,Duplicata,true,Ativo
+DUP004,Empresa Alpha Ltda,Cliente Theta SA,1200000.00,2024-01-18,2024-02-18,Duplicata,false,Ativo
+DUP005,Empresa Kappa Corp,Cliente Lambda Ltd,8500.25,2024-01-19,2024-02-19,Duplicata,true,Ativo
+DUP006,Empresa Mu Industries,Cliente Nu Corp,45000.00,2024-01-20,2024-01-22,Duplicata,false,Ativo
+DUP007,Empresa Xi Holdings,Cliente Omicron SA,32000.80,2024-01-21,2024-02-21,Duplicata,true,Ativo
+DUP008,Empresa Pi Solutions,Cliente Rho Inc,95000.00,2024-01-22,2024-02-22,Duplicata,false,Ativo
+DUP009,Empresa Sigma Tech,Cliente Tau Ltda,18500.40,2024-01-23,2024-02-23,Duplicata,true,Ativo
+DUP010,Empresa Upsilon Ltd,Cliente Phi Corp,67000.90,2024-01-24,2024-02-24,Duplicata,true,Ativo
+DUP011,Empresa Chi Ventures,Cliente Psi SA,150000.00,2024-01-25,2024-01-27,Duplicata,false,Ativo
+DUP012,Empresa Omega Group,Cliente Alpha2 Inc,28000.60,2024-01-26,2024-02-26,Duplicata,true,Ativo
+DUP013,Empresa Beta2 Corp,Cliente Gamma2 Ltd,85000.30,2024-01-27,2024-02-27,Duplicata,false,Ativo
+DUP014,Empresa Delta2 SA,Cliente Epsilon2 Corp,12000.15,2024-01-28,2024-02-28,Duplicata,true,Ativo
+DUP015,Empresa Zeta2 ME,Cliente Theta2 SA,2500000.00,2024-01-29,2024-01-30,Duplicata,false,Ativo
